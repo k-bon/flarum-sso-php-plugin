@@ -29,7 +29,7 @@
         "ext-json": "*",
         "delight-im/cookie": "^3",
         "illuminate/support": "^8|^9",
-        "maicol07/flarum-api-client": "^1",
+        "maicol07/flarum-api-client": "dev-feature-laravel-9",
         "mistic100/php-hooks": "^0"
     },
     "require-dev": {
